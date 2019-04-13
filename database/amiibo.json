@@ -6539,6 +6539,24 @@
                 "jp": "2019-02-15",
                 "na": "2019-02-15"
             }
+        },
+        "0x34c1000003890002": {
+            "name": "Ken",
+            "release": {
+                "au": "2019-04-12",
+                "eu": "2019-04-12",
+                "jp": "2019-04-12",
+                "na": "2019-04-12"
+            }
+        },
+        "0x00130000037a0002": {
+            "name": "Daisy",
+            "release": {
+                "au": "2019-04-12",
+                "eu": "2019-04-12",
+                "jp": "2019-04-12",
+                "na": "2019-04-12"
+            }
         }		
     },
     "characters": {
@@ -6560,7 +6578,7 @@
         "0x0023": "Koopa Troopa",
 		"0x0024": "Piranha Plant",
         "0x0080": "Poochy",
-		"0x00c0": "King K. Rool",
+        "0x00c0": "King K. Rool",
         "0x0100": "Link",
         "0x0101": "Zelda",
         "0x0102": "Ganon",
@@ -7032,7 +7050,7 @@
         "0x0780": "Mr. G&W",
         "0x0781": "R.O.B.",
         "0x0782": "Duck Hunt",
-		"0x078f": "Ice Climbers",
+        "0x078f": "Ice Climbers",
         "0x07c0": "Mii",
         "0x0800": "Inkling",
         "0x0801": "Callie",
@@ -7091,6 +7109,7 @@
         "0x3380": "Solaire of Astora",
         "0x3480": "Mega Man",
         "0x34c0": "Ryu",
+		"0x34c1": "Ken",
         "0x3500": "One-Eyed Rathalos",
         "0x3501": "Nabiru",
         "0x3502": "Rathian",
@@ -7106,6 +7125,7 @@
         "0x001": "Super Mario",
         "0x002": "Super Mario",
         "0x008": "Yoshi's Woolly World",
+        "0x00c": "Donkey Kong",
         "0x010": "The Legend of Zelda",
         "0x014": "Breath of the Wild",
         "0x018": "Animal Crossing",
